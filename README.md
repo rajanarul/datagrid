@@ -1,3 +1,7 @@
+This is the code copied from Mark Richards presentation on microservices caching.   Added local copy to checkin experimental changes.
+
+
+
 # caching
 Source code examples and demo from my microservices caching session at NFJS
 
